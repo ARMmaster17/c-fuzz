@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "c-fuzz": {
+      "commandName": "Project",
+      "commandLineArgs": "\"http://google.com/\""
+    }
+  }
+}
