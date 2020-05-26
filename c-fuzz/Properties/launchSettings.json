@@ -2,7 +2,7 @@
   "profiles": {
     "c-fuzz": {
       "commandName": "Project",
-      "commandLineArgs": "\"http://google.com/\""
+      "commandLineArgs": "\"http://127.0.0.1/client/#\""
     }
   }
 }
